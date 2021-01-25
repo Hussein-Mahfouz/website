@@ -1,0 +1,17 @@
+---
+title: "Hussein Mahfouz"
+image: "hussein.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/hussein-mahfouz/"
+  - label: Twitter
+    url: "https://twitter.com/h_mahfouz"
+  - label: GitHub
+    url: "https://github.com/Hussein-Mahfouz"
+  - label: Email
+    url: "mailto:husseinmahfouz93@gmail.com"
+output:
+  postcards::jolla
+---
+ 
+I am a spatial data scientist working in the transport sector
